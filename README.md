@@ -1,3 +1,7 @@
+Contacts of Poster Presenters: Begum Ulku- begumulkusarisen@gmail.com
+Cecilia Moro- cecilia.moro@studenti.unipd.it
+Luisa Penso- luisa.penso@gmail.com
+
 # K-Clustering-for-EEG-Time-Frequency-Coherence-data-from-Brainstorm
 The repository contains MATLAB code for the k-clustering of the EEG functional dynamic connectivity matrices derived from Brainstorm. The script was made with the help of Gemini 3 Flash.
 
